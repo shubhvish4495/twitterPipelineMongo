@@ -1,5 +1,9 @@
 # twitterPipelineMongo
 
+Pre-requisites:
+ > Python 3
+ > MongoDB
+
 
  A pipeline code to fetch data from twitter API to Mongo DB database.
 
